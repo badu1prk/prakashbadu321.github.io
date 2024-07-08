@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!-- First Example -->
+<html>
+<head>
+<title>
+Bye
+</title>
+</head>
+
+<body>
+
+<p>
+Bye to HTML!
+</p>
+<br>
+<a href="welcome html.html">Click this to go to the Welcoming page
+</a>
+
+</body>
+</html>
